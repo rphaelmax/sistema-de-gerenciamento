@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento
 
 ## Sobre o projeto
-Desenvolvido como parte de uma atividade avaliativa da 1ª etapa do ano letivo, com o objetivo de aplicar conceitos de programação em python aprendidos em aula.
+Projeto escolar, desenvolvido com o objetivo de aplicar os conceitos de programação em python aprendidos em aula.
 Este projeto é um sistema simples desenvolvido para auxiliar no controle das operações de uma empresa (fictícia) que produz veículos.
 
 ## Problema
